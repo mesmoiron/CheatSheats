@@ -16,3 +16,16 @@ https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/
 https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/
 * improve-model-performance-cross-validation-in-python-r
 https://www.analyticsvidhya.com/blog/2015/11/improve-model-performance-cross-validation-in-python-r/
+* beginners-guide-on-logistic-regression-in-r
+https://www.analyticsvidhya.com/blog/2015/11/beginners-guide-on-logistic-regression-in-r/
+* decision-tree-simplified
+https://www.analyticsvidhya.com/blog/2015/01/decision-tree-simplified/
+
+
+# MIT OCW
+* Artificial Intelligence
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/
+
+# University of Leiden (NL)
+* Tools & software
+http://libraries.leiden.edu/teaching-researching-publishing/manage-your-research/data-and-text-mining/tools-and-software.html
